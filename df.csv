@@ -1,27 +1,27 @@
 Location,Price,Bedrooms,Bathrooms,Toilets,Parking
-Runda,"100,000,000",5,5,Not available,Not available
-Kileleshwa,"27,500,000",4,5,5,Not available
+Runda,"100,000,000",5,5,NaN,NaN
+Kileleshwa,"27,500,000",4,5,5,NaN
 Ruai,"7,800,000",5,4,5,2
-Karen,"75,500,000",5,5,Not available,Not available
+Karen,"75,500,000",5,5,NaN,NaN
 Haven,"120,000,000",4,4,4,4
-Lavington,"75,000,000",4,Not available,Not available,Not available
-Riverside Drive,"49,000,000",5,5,Not available,Not available
-Shanzu Road,"57,500,000",6,7,Not available,Not available
-Westlands,"68,000,000",5,5,5,Not available
-Lavington,"50,000,000",4,4,Not available,Not available
-Lavington,"95,000,000",5,5,1,Not available
+Lavington,"75,000,000",4,NaN,NaN,NaN
+Riverside Drive,"49,000,000",5,5,NaN,NaN
+Shanzu Road,"57,500,000",6,7,NaN,NaN
+Westlands,"68,000,000",5,5,5,NaN
+Lavington,"50,000,000",4,4,NaN,NaN
+Lavington,"95,000,000",5,5,1,NaN
 Westlands,"40,000,000",4,4,4,4
 Runda,"200,000,000",7,5,5,2
-Kitisuru,"25,500,000",4,Not available,Not available,Not available
-Kitisuru,"63,000,000",4,4,1,Not available
+Kitisuru,"25,500,000",4,NaN,NaN,NaN
+Kitisuru,"63,000,000",4,4,1,NaN
 Tree Lane,"170,000,000",6,5,6,3
 Kiambu Road,"38,250,000",3,3,3,3
 Langata,"32,000,000",4,4,4,4
 Riara Rd,"55,000,000",4,5,6,4
-Karen South,"75,000,000",7,7,7,Not available
+Karen South,"75,000,000",7,7,7,NaN
 Raphta Road,"38,000,000",5,5,6,3
 Menelik Road,"30,000,000",4,3,4,3
-Kabaserian,"55,000,000",4,4,5,Not available
+Kabaserian,"55,000,000",4,4,5,NaN
 Kitisuru,"400,000,000",7,8,9,10
 Langata Link Road,"32,500,000",4,5,5,3
 Garden Estate,"90,000,000",5,5,5,5
@@ -29,50 +29,45 @@ Garden Estate,"75,000,000",5,5,5,4
 Kabaserian,"56,000,000",5,5,5,2
 Lower Kabete,"150,000,000",5,5,5,6
 Lavington,"120,000,000",4,4,5,4
-Runda,"120,000,000",6,7,7,14
+Runda,"105,000,000",6,7,7,14
 Peponi Road,"65,000,000",5,5,6,4
 Kiambu Road,"90,000,000",5,5,5,2
 Lower Kabete Road,"100,000,000",5,5,6,5
 Muthaiga Road,"250,000,000",7,5,6,15
-Runda Ever Green,"85,000,000",6,6,7,Not available
+Runda Ever Green,"85,000,000",6,6,7,NaN
 Runda,"250,000,000",5,5,5,7
 Spring Valley Road,"250,000,000",14,12,12,15
 Kiambu Road,"28,000,000",4,3,3,2
 Ndoto Road,"65,000,000",5,5,6,3
-Brookside Road,"35,000,000",4,4,3,Not available
-Malaa Kdo Rd,"4,900,000",3,2,2,Not available
-Hatheru Rd,"50,000,000",5,5,5,Not available
-Njumbi Rd,"100,000,000",5,5,5,Not available
+Brookside Road,"35,000,000",4,4,3,NaN
+Malaa Kdo Rd,"4,900,000",3,2,2,NaN
+Hatheru Rd,"50,000,000",5,5,5,NaN
+Njumbi Rd,"100,000,000",5,5,5,NaN
 Thindigua,"32,000,000",4,4,4,2
 Kiambu Road,"42,000,000",4,4,5,3
 Spring Estate,"42,000,000",4,4,5,3
 Hillcrest,"53,000,000",4,5,6,4
 Bogani,"75,000,000",5,6,7,4
-Parklands,"45,000,000",5,4,4,Not available
+Parklands,"45,000,000",5,4,4,NaN
 Karen Langata Road,"55,000,000",4,3,4,4
-Runda,"140,000,000",7,7,7,Not available
+Runda,"140,000,000",7,7,7,NaN
 Karen Langata Road,"55,000,000",4,4,4,4
 Forest Edge Road,"120,000,000",5,6,7,3
-Lavington,"110,000,000",5,6,6,7
-Lavington,"70,000,000",5,6,6,6
-Lavington,"75,000,000",5,6,6,6
-Lavington,"75,000,000",5,6,6,6
-Lavington,"92,000,000",6,7,7,8
-Muthaiga North Rd,"42,000,000",5,5,4,Not available
-Mzima Springs,"300,000,000",6,Not available,Not available,Not available
-Karen,"98,500,000",5,6,Not available,Not available
-Karen,"150,000,000",5,6,Not available,Not available
+Muthaiga North Rd,"42,000,000",5,5,4,NaN
+Mzima Springs,"300,000,000",6,NaN,NaN,NaN
+Karen,"98,500,000",5,6,NaN,NaN
+Karen,"150,000,000",5,6,NaN,NaN
 Hardy Area,"120,000,000",5,7,7,6
-Peponi Road,"85,000,000",5,6,6,Not available
-Karen,"160,000,000",6,7,7,Not available
+Peponi Road,"85,000,000",5,6,6,NaN
+Karen,"160,000,000",6,7,7,NaN
 Ridge,"120,000,000",5,5,6,5
-Lavington,"120,000,000",4,5,Not available,Not available
+Lavington,"120,000,000",4,5,NaN,NaN
 Convent Road,"55,000,000",5,5,6,3
 Valley Arcade,"38,000,000",4,4,4,"4,830"
 Loresho,"47,000,000",4,4,4,2
-Kitisuru,"33,000,000",5,340,Not available,Not available
+Kitisuru,"33,000,000",5,340,NaN,NaN
 Raphta Road,"38,000,000",5,4,5,3
-Brookside Gardens,"19,000,000",2,180,Not available,Not available
+Brookside Gardens,"19,000,000",2,180,NaN,NaN
 Old Muthaiga,"380,000,000",5,6,6,10
 Runda,"120,000,000",5,6,6,9
 Spring Valley,"85,000,000",5,6,6,9
@@ -83,13 +78,13 @@ Karen,"70,000,000",6,7,7,8
 Hardy,"65,000,000",4,5,5,6
 Runda,"550,000,000",16,18,18,30
 Kabasran Avenue,"65,000,000",5,5,6,4
-Kitisuru,"98,500,000",5,5,1,Not available
+Kitisuru,"98,500,000",5,5,1,NaN
 Grevallea Grove,"70,000,000",5,5,6,3
-Loresho,"130,000,000",5,7,Not available,Not available
-Lavington,"95,000,000",4,4,1,Not available
+Loresho,"130,000,000",5,7,NaN,NaN
+Lavington,"95,000,000",4,4,1,NaN
 Lavington,"50,000,000",5,5,5,2
 Denis Pritt Road,"38,000,000",4,4,5,2
-69 Woodvale Close,"70,000,000",4,4,Not available,Not available
+69 Woodvale Close,"70,000,000",4,4,NaN,NaN
 Karen,"180,000,000",8,9,9,10
 Karen,"110,000,000",6,7,7,10
 Karen,"105,000,000",5,6,6,10
@@ -105,7 +100,7 @@ Lavington,"70,000,000",5,6,6,6
 Lavington,"75,000,000",5,6,6,6
 Lavington,"92,000,000",6,7,7,8
 Runda,"70,000,000",3,4,4,4
-Runda,"85,000,000",4,5,5,Not available
+Runda,"85,000,000",4,5,5,NaN
 Nairobi Central,"37,300,000",4,5,5,5
 Runda,"48,000,000",4,5,5,5
 Runda,"37,000,000",3,4,4,4
@@ -115,10 +110,10 @@ Westlands,"200,000,000",9,10,10,10
 Kitisuru,"15,000,000",4,5,5,5
 Rosslyn,"110,000,000",5,6,6,6
 Rosslyn,"90,000,000",5,6,6,7
-Runda,"90,000,000",4,Not available,Not available,Not available
-Mimosa,"100,000,000",7,7,7,Not available
-Valley Arcade,"30,000,000",4,4,5,Not available
-Hardy,"75,000,000",4,5,5,Not available
+Runda,"90,000,000",4,NaN,NaN,NaN
+Mimosa,"100,000,000",7,7,7,NaN
+Valley Arcade,"30,000,000",4,4,5,NaN
+Hardy,"75,000,000",4,5,5,NaN
 Runda,"100,000,000",5,6,6,8
 Runda,"90,000,000",5,6,6,8
 Runda,"28,500,000",4,5,5,5
@@ -151,7 +146,7 @@ Rosslyn,"90,000,000",5,6,6,8
 Kitisuru,"550,000,000",6,7,7,8
 Garden City,"27,000,000",4,2,3,2
 South C,"25,000,000",4,4,4,2
-Brookside Drive,"78,500,000",5,4,6,Not available
+Brookside Drive,"78,500,000",5,4,6,NaN
 Karen,"130,000,000",4,5,5,6
 Karen,"89,000,000",5,6,6,6
 Karen,"80,000,000",5,6,6,5
@@ -162,23 +157,23 @@ Karen,"120,000,000",5,6,6,6
 Convent Road,"550,000,000",6,8,8,5
 Tassia,"15,500,000",4,3,3,4
 Gitanga Road,"33,000,000",4,4,4,2
-Runda,"28,500,000",4,3,210,Not available
-Runda Mumwe,"60,000,000",4,5,5,Not available
+Runda,"28,500,000",4,3,210,NaN
+Runda Mumwe,"60,000,000",4,5,5,NaN
 Runda,"215,000,000",5,6,6,4
-Shanzu Villas,"57,500,000",6,5,4,Not available
-Kerarapon,"100,000,000",5,Not available,Not available,Not available
-90 Mimosa Drive,"75,000,000",5,5,Not available,Not available
-Iregi Villas,"19,000,000",4,3,2,Not available
-City Park Villas,"45,000,000",4,3,Not available,Not available
-Lavington,"105,000,000",6,Not available,Not available,Not available
-Loresho,"45,000,000",4,4,1,Not available
-Karen,"120,000,000",5,5,Not available,Not available
-Lavington,"74,000,000",5,Not available,Not available,Not available
-Off Ushirika Road,"110,000,000",10,10,10,Not available
-Karen,"120,000,000",5,8,Not available,Not available
-Karen,"155,000,000",5,9,5,Not available
-Old Kitisuru,"88,000,000",5,8,Not available,Not available
-Kahawa Sukari,"52,000,000",4,6,6,Not available
+Shanzu Villas,"57,500,000",6,5,4,NaN
+Kerarapon,"100,000,000",5,NaN,NaN,NaN
+90 Mimosa Drive,"75,000,000",5,5,NaN,NaN
+Iregi Villas,"19,000,000",4,3,2,NaN
+City Park Villas,"45,000,000",4,3,NaN,NaN
+Lavington,"105,000,000",6,NaN,NaN,NaN
+Loresho,"45,000,000",4,4,1,NaN
+Karen,"120,000,000",5,5,NaN,NaN
+Lavington,"74,000,000",5,NaN,NaN,NaN
+Off Ushirika Road,"110,000,000",10,10,10,NaN
+Karen,"120,000,000",5,8,NaN,NaN
+Karen,"155,000,000",5,9,5,NaN
+Old Kitisuru,"88,000,000",5,8,NaN,NaN
+Kahawa Sukari,"52,000,000",4,6,6,NaN
 Karen Hardy,"110,000,000",10,11,11,"5,000"
 Pepolane,"60,000,000",4,3,3,3
 Karen,"95,000,000",5,6,6,4
@@ -188,32 +183,28 @@ Kilimani,"29,000,000",4,3,4,3
 Runda,"170,000,000",5,6,2,"2,023"
 Garden  Estate,"80,000,000",5,5,4,5
 Hardy-mlima Road,"150,000,000",6,5,6,6
-Runda,"100,000,000",5,5,1,Not available
-Chalbi Drive,"66,000,000",4,Not available,Not available,Not available
-Windy Ridge,"99,000,000",5,Not available,Not available,Not available
-Bogani,"89,500,000",4,Not available,Not available,Not available
-Kangundo Road,"5,900,000",3,3,Not available,Not available
+Runda,"100,000,000",5,5,1,NaN
+Chalbi Drive,"66,000,000",4,NaN,NaN,NaN
+Windy Ridge,"99,000,000",5,NaN,NaN,NaN
+Bogani,"89,500,000",4,NaN,NaN,NaN
+Kangundo Road,"5,900,000",3,3,NaN,NaN
 Kagundo Road,"6,100,000",3,2,2,1
-Runda,"67,000,000",5,Not available,Not available,Not available
-Runda,"45,000,000",4,Not available,Not available,Not available
-Runda,"35,000,000",3,Not available,Not available,Not available
-Peponi Road,"85,000,000",5,5,2,Not available
-Lower Kabete,"118,500,000",4,4,1,Not available
-Lower Kabete,"175,000,000",5,Not available,Not available,Not available
-Lower Kabete,"90,000,000",3,Not available,Not available,Not available
-Ruai,"35,000,000",4,4,Not available,Not available
-Kangundo Road,"24,000,000",3,2,2,Not available
-Muthaiga Rd,"35,000,000",5,5,4,Not available
-Lavington,"70,000,000",5,6,6,6
-Lavington,"75,000,000",5,6,6,6
-Lavington,"580,000,000",5,6,6,8
-Lavington,"65,000,000",4,5,5,5
+Runda,"67,000,000",5,NaN,NaN,NaN
+Runda,"45,000,000",4,NaN,NaN,NaN
+Runda,"35,000,000",3,NaN,NaN,NaN
+Peponi Road,"85,000,000",5,5,2,NaN
+Lower Kabete,"118,500,000",4,4,1,NaN
+Lower Kabete,"175,000,000",5,NaN,NaN,NaN
+Lower Kabete,"90,000,000",3,NaN,NaN,NaN
+Ruai,"35,000,000",4,4,NaN,NaN
+Kangundo Road,"24,000,000",3,2,2,NaN
+Muthaiga Rd,"35,000,000",5,5,4,NaN
 Kiambu Road,"18,500,000",3,4,4,4
-Karen,"85,000,000",5,4,5,Not available
+Karen,"85,000,000",5,4,5,NaN
 Karen,"70,000,000",4,4,5,4
 Karen,"70,000,000",4,4,5,3
 Spring Valley,"40,000,000",5,4,5,2
-Karen,"3,500,000",2,2,2,Not available
+Karen,"3,500,000",2,2,2,NaN
 Lower Kabete Road,"165,000,000",5,5,5,4
 Runda,"55,000,000",4,5,5,6
 Runda,"150,000,000",4,5,5,6
@@ -226,8 +217,8 @@ Runda,"185,000,000",8,9,9,9
 Runda,"37,000,000",4,5,5,5
 Westlands,"200,000,000",5,6,6,15
 Kitisuru,"550,000,000",6,7,7,10
-Rosslyn,"85,000,000",5,6,8,Not available
-Old Runda/runda Estate.,"70,000,000",4,4,4,Not available
+Rosslyn,"85,000,000",5,6,8,NaN
+Old Runda/runda Estate.,"70,000,000",4,4,4,NaN
 Lavington,"70,000,000",5,6,6,7
 Lavington,"75,000,000",5,6,6,7
 Lavington,"580,000,000",5,6,6,10
@@ -240,13 +231,13 @@ South C,"22,500,000",4,5,5,5
 Runda,"55,000,000",4,5,5,5
 Shanzu Road,"90,000,000",4,4,4,3
 Westlands,"200,000,000",5,7,7,8
-Rosslyn,"85,000,000",5,6,6,Not available
-Buruburu,"11,000,000",4,3,3,Not available
+Rosslyn,"85,000,000",5,6,6,NaN
+Buruburu,"11,000,000",4,3,3,NaN
 South C,"20,000,000",4,3,3,4
-South C,"15,000,000",3,2,2,Not available
+South C,"15,000,000",3,2,2,NaN
 South C,"27,000,000",4,3,5,4
-Lavington,"150,000,000",6,6,6,Not available
-South C,"40,000,000",4,3,3,Not available
+Lavington,"150,000,000",6,6,6,NaN
+South C,"40,000,000",4,3,3,NaN
 South B,"20,000,000",3,3,3,3
 South C,"17,000,000",3,2,3,4
 Karen,"120,000,000",4,5,5,6
@@ -254,35 +245,32 @@ Karen,"95,000,000",6,7,7,6
 Karen,"110,000,000",5,6,6,5
 Riverside Drive,"45,000,000",3,3,3,3
 Runda Drive,"200,000,000",5,5,5,4
-Lavington,"75,000,000",5,5,5,3
-Lavington,"65,000,000",5,5,5,3
-Kitisuru,"60,000,000",5,Not available,Not available,Not available
+Kitisuru,"60,000,000",5,NaN,NaN,NaN
 Karen,"95,000,000",5,6,6,3
-Lavington,"70,000,000",5,Not available,Not available,Not available
+Lavington,"70,000,000",5,NaN,NaN,NaN
 Mimosa,"95,000,000",4,4,4,4
-Lavington,"65,000,000",5,6,5,4
 Karen Ololua,"95,000,000",5,5,5,4
 Kilimani,"26,000,000",4,3,3,2
 Miotoni,"120,000,000",5,5,5,2
 Utawala,"8,500,000",3,2,2,2
 Karen,"69,000,000",5,5,6,4
 Mukoma,"45,000,000",4,3,4,3
-Loresho,"35,000,000",4,5,5,Not available
+Loresho,"35,000,000",4,5,5,NaN
 Kiambu Road,"21,000,000",4,4,4,3
 Lavington,"70,000,000",5,6,6,2
-New Muthaiga,"185,000,000",7,Not available,Not available,Not available
+New Muthaiga,"185,000,000",7,NaN,NaN,NaN
 Nyari,"160,000,000",6,6,7,4
-Runda,"37,000,000",3,4,3,Not available
-Runda,"185,000,000",8,9,6,Not available
-Runda,"145,000,000",5,6,4,Not available
-Runda,"75,000,000",4,5,4,Not available
-Gigiri,"37,300,000",4,5,4,Not available
-Kitisuru,"15,000,000",4,5,3,Not available
-Chalbi Drive,"65,000,000",4,5,3,Not available
-Karen,"100,000,000",4,5,6,Not available
-Karen Plains,"120,000,000",5,6,6,Not available
-Kerarapon Road,"40,000,000",3,4,4,Not available
-Miotoni,"120,000,000",5,6,5,Not available
+Runda,"37,000,000",3,4,3,NaN
+Runda,"185,000,000",8,9,6,NaN
+Runda,"145,000,000",5,6,4,NaN
+Runda,"75,000,000",4,5,4,NaN
+Gigiri,"37,300,000",4,5,4,NaN
+Kitisuru,"15,000,000",4,5,3,NaN
+Chalbi Drive,"65,000,000",4,5,3,NaN
+Karen,"100,000,000",4,5,6,NaN
+Karen Plains,"120,000,000",5,6,6,NaN
+Kerarapon Road,"40,000,000",3,4,4,NaN
+Miotoni,"120,000,000",5,6,5,NaN
 Old Muthaiga,"400,000,000",3,4,4,7
 Lavington,"75,000,000",5,6,6,4
 Karen,"100,000,000",5,6,6,5
@@ -309,13 +297,12 @@ Karen,"90,000,000",4,5,5,4
 Karen,"120,000,000",5,6,6,5
 Karen,"105,000,000",5,6,6,4
 Outerig Rd,"10,500,000",3,1,1,2
-Spring Valley Road. Bendera Lane,"250,000,000",10,10,10,20
-Karen,"65,000,000",4,5,Not available,Not available
-Kileleshwa,"35,000,000",Not available,Not available,Not available,Not available
-Kileleshwa,"50,000,000",5,Not available,Not available,Not available
-Westlands,"30,000,000",3,Not available,Not available,Not available
-Kilimani,"26,000,000",3,Not available,Not available,Not available
-Kilimani,"25,000,000",Not available,Not available,Not available,Not available
-Kihingo,"165,000,000",4,5,Not available,Not available
-Chalbi Drive,"66,000,000",4,5,Not available,Not available
-House No 21,"120,000,000",10,10,Not available,Not available
+Karen,"65,000,000",4,5,NaN,NaN
+Kileleshwa,"35,000,000",NaN,NaN,NaN,NaN
+Kileleshwa,"50,000,000",5,NaN,NaN,NaN
+Westlands,"30,000,000",3,NaN,NaN,NaN
+Kilimani,"26,000,000",3,NaN,NaN,NaN
+Kilimani,"25,000,000",NaN,NaN,NaN,NaN
+Kihingo,"165,000,000",4,5,NaN,NaN
+Chalbi Drive,"66,000,000",4,5,NaN,NaN
+House No 21,"120,000,000",10,10,NaN,NaN
